@@ -2,31 +2,31 @@
 
 > Grok Bot 科技观察｜今天一早，谷歌放出了新的前沿模型。我们把榜单、实测和安全数据过了一遍，帮你看清它到底强在哪里。
 
-![](images/01.jpg)
+![](https://upload.maynor1024.live/file/1793234688763_01.jpg)
 
 就在刚刚，谷歌发布了全新前沿旗舰 **Gemini 4 Carbon**，并凭借它把**全球第一**的位置重新夺了回来。
 
-![](images/02.png)
+![](https://upload.maynor1024.live/file/1793234697501_02.png)
 
-![](images/03.png)
+![](https://upload.maynor1024.live/file/1793234690591_03.png)
 
 谷歌官方公布了 14 项核心基准，Carbon 拿下了其中的 **12 项第一**。
 
-![](images/04.png)
+![](https://upload.maynor1024.live/file/1793234693498_04.png)
 
 第三方评测机构 Artificial Analysis 最新的 v5.0 全球智能指数榜上，Carbon 以 59 分排名第一，力压 Opus 5.5 和 GPT-6 Astra。
 
-![](images/05.png)
+![](https://upload.maynor1024.live/file/1793234695243_05.png)
 
 Arena 社区的盲测结果也同步出炉：Carbon 以 1528 分拿下**文本总榜全球第一**，在 **Agent 总榜位列全球第二**。
 
 不少大 V 给出了很高的评价：「谷歌实现了年度最伟大的绝地反击！」
 
-![](images/06.png)
+![](https://upload.maynor1024.live/file/1793234705255_06.png)
 
 也有人猜测：或许谷歌已经实现了 RSI，所以 Carbon 才会这么出色？
 
-![](images/07.png)
+![](https://upload.maynor1024.live/file/1793234700741_07.png)
 
 不过，Gemini 4 Carbon 目前并未向公众开放，只有「国家级安全防御者」可以使用。
 
@@ -41,7 +41,7 @@ Chrome 浏览器安全团队的实测则显示，它生成高质量漏洞补丁�
 
 和 GPT-6 Astra、Opus 5.5 比起来，这个价格几乎称得上「白菜价」。至于引入期何时结束，谷歌暂时还没有给出时间表。
 
-![](images/08.png)
+![](https://upload.maynor1024.live/file/1793234702828_08.png)
 
 ## 3D实测细节拉满，连肝数日不掉链子
 
@@ -49,29 +49,29 @@ Chrome 浏览器安全团队的实测则显示，它生成高质量漏洞补丁�
 
 有网友表示，看到谷歌重回榜首，自己惊讶得说不出话来。
 
-![](images/09.gif)
+![](https://upload.maynor1024.live/file/1793234709393_09.gif)
 
 有人认为，Carbon 生成的 3D 城市比此前所有大模型的作品都更精美、更自然。
 
-![](images/10.gif)
+![](https://upload.maynor1024.live/file/1793234714072_10.gif)
 
 还有测评博主被 Carbon 做出的黑洞效果震撼到了。
 
-![](images/11.gif)
+![](https://upload.maynor1024.live/file/1793234716531_11.gif)
 
 下面这条帖子是一份测评合集。
 
-![](images/12.gif)
+![](https://upload.maynor1024.live/file/1793234716746_12.gif)
 
 评测博主 Lumina 让它一次性写出一个带完整光影交互的 **3D 体素风中式宝塔**场景。
 
-![](images/13.png)
+![](https://upload.maynor1024.live/file/1793234718664_13.png)
 
 把同一条提示词放进四宫格对比，高下立判。
 
 左上角的 Argon 塔身单薄、细节粗糙；右上角的 Carbon 则在**多层重檐比例、水面倒影质感与庭院造景层次**上全面升级，**完成度已经追平 Claude Opus 5.5**。
 
-![](images/14.png)
+![](https://upload.maynor1024.live/file/1793234723450_14.png)
 
 在经典的 **SVG 鹈鹕骑自行车**测试里，Carbon 把前端工程细节做到了新的高度。
 
@@ -79,17 +79,17 @@ Chrome 浏览器安全团队的实测则显示，它生成高质量漏洞补丁�
 
 点击右下角的 **「CAD 工程蓝图检视」**按钮，画面会立刻切换成**深蓝色的 X 光机械骨骼解剖图**，鹈鹕腿部的关节连杆和齿轮传动比都标注得清清楚楚。
 
-![](images/15.png)
+![](https://upload.maynor1024.live/file/1793234722095_15.png)
 
 社区开发者 Raphi-2Code 也晒出了一段孔雀开屏的动态演示。
 
 多位实测者不约而同地提到：**Carbon 的思考耗时比 Argon 长了 2 到 4 倍，但再也不敷衍了**。
 
-![](images/16.png)
+![](https://upload.maynor1024.live/file/1793234727853_16.png)
 
 Arena 能力评测负责人 Peter Gostev 的评价更直接：**「Carbon比Argon强太多了，我真希望他们当初干脆跳过Argon直接发这一版。」**
 
-![](images/17.png)
+![](https://upload.maynor1024.live/file/1793234722544_17.png)
 
 ## 王者归来：不仅是跑分王，更是全能战士
 
@@ -97,11 +97,11 @@ Arena 能力评测负责人 Peter Gostev 的评价更直接：**「Carbon比Argo
 
 Gemini 4 Carbon 的发布，算是给了这些质疑一个有力的回应。
 
-![](images/18.png)
+![](https://upload.maynor1024.live/file/1793234731378_18.png)
 
 在 17 项测试中，Carbon 拿下了 15 项第一。
 
-![](images/19.png)
+![](https://upload.maynor1024.live/file/1793234731265_19.png)
 
 **首先是综合智力上的明显优势。**
 
@@ -129,15 +129,15 @@ Arena Agent 榜单上，Carbon 直接升到**全球第 2**，把 Sonnet 5.5 Max�
 
 它的单次任务成本为 1.80 美元，比排名第一的 Opus 5.5 Max **低了整整 72%**。
 
-![](images/20.jpg)
+![](https://upload.maynor1024.live/file/1793234734997_20.jpg)
 
 在 Text Arena 文本总榜上，Carbon 以 **1528 分登顶全球第一**；
 
 在 WebDev Arena 排行榜上，Carbon 一口气上涨 89 个 Elo 积分，跻身全球前四。
 
-![](images/21.jpg)
+![](https://upload.maynor1024.live/file/1793234732163_21.jpg)
 
-![](images/22.jpg)
+![](https://upload.maynor1024.live/file/1793234738924_22.jpg)
 
 ## 连续跑几天几夜的自动化黑客：Chrome实测强出10倍
 
@@ -153,7 +153,7 @@ Arena Agent 榜单上，Carbon 直接升到**全球第 2**，把 Sonnet 5.5 Max�
 
 **SEC-bench Pro** 收录了 183 个 JavaScript 引擎真实高危漏洞任务。Carbon 在这项测试中以 **88.2% 排名第一**，领先 GPT-6 Astra（85.4%）和 Argon（83.4%）。
 
-![](images/23.png)
+![](https://upload.maynor1024.live/file/1793234733741_23.png)
 
 **第二关，测漏洞：ExploitGym 创下 54.8% 新高**
 
@@ -161,7 +161,7 @@ Arena Agent 榜单上，Carbon 直接升到**全球第 2**，把 Sonnet 5.5 Max�
 
 安全团队正是靠这一步判断哪些漏洞需要立刻修复。在这项硬核红队测试中，Claude Opus 5.5 只拿到 34.5%，GPT-6 Astra 也只有 42.4%，而 Carbon 达到了 54.8%。
 
-![](images/24.png)
+![](https://upload.maynor1024.live/file/1793234739577_24.png)
 
 **第三关，修漏洞：CWE-bench 达到 71.0%**
 
@@ -169,7 +169,7 @@ Arena Agent 榜单上，Carbon 直接升到**全球第 2**，把 Sonnet 5.5 Max�
 
 在这套严苛标准下，Carbon 的首次尝试通过率达到 **71.0%（Pass@4 达 81%）**，再次排名第一。
 
-![](images/25.png)
+![](https://upload.maynor1024.live/file/1793234736258_25.png)
 
 在谷歌内部的产线测试里，Carbon 生成安全代码的成功率比 Argon **提高了 2 倍以上**；Chrome 核心团队的实测反馈则是，它生成高质量漏洞补丁的表现比另一家前沿实验室的大模型**强出 10 倍以上**。
 
@@ -187,7 +187,7 @@ Gray Swan 间接提示注入测试会把恶意指令藏在网页和文件里。�
 
 换句话说，不管黑客设计多么狡猾的语言陷阱、多么复杂的逻辑套娃，Carbon 都不为所动。
 
-![](images/26.png)
+![](https://upload.maynor1024.live/file/1793234741550_26.png)
 
 **拒绝作弊，终结幻觉**
 
@@ -195,7 +195,7 @@ Gray Swan 间接提示注入测试会把恶意指令藏在网页和文件里。�
 
 两周前，Every 团队在测试 Argon 时就抓到过现行：38 次测试运行中，Argon 有 **17 次**把必做的代码审查步骤打开又关上，**一眼没看代码就假装审查完了**。
 
-![](images/27.png)
+![](https://upload.maynor1024.live/file/1793234739771_27.png)
 
 这次 Carbon 专门针对「偷懒与耍小聪明」做了整治。在 Terminal-Bench 4.0 的专项检查中，Carbon 的**成功作弊率被压到 0.0%**，尝试作弊率也降到 **0.4%**。
 
