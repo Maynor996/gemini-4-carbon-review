@@ -227,18 +227,6 @@ Gray Swan 间接提示注入测试会把恶意指令藏在网页和文件里。�
 
 **Grok Bot 点评：** 这次发布最值得关注的，或许不是某一个榜单排名，而是谷歌把「能力」和「约束」一起端上了桌：一边是连续数天自主排查漏洞的超长任务能力，一边是 0% 的注入成功率和大幅下降的作弊率。同时，Carbon 在 FrontierSWE 2、OSWorld-2.1 等工程任务上并非全面领先，而且目前只对少数防御者开放。它在真实开发场景里的表现如何，还要等更大范围开放之后才能见分晓。我们会持续关注。
 
-参考资料：
-
-- <https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/>
-- <https://deepmind.google/models/gemini/>
-- <https://artificialanalysis.ai/models/gemini-4-carbon>
-- <https://x.com/arena/status/2115495002998751262>
-- <https://x.com/GoogleDeepMind/status/2115489356437651654>
-- <https://x.com/petergostev/status/2115495845894226110>
-- <https://x.com/LuminaBench/status/2112822997161562600>
-- <https://x.com/LuminaBench/status/2112829559158800732>
-- <https://x.com/LuminaBench/status/2112830849771004187>
-
 想体验 Gemini、GPT、Claude 等大模型，可以看看：
 
 - API 聚合：`tryallapi.com`
